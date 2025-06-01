@@ -10,3 +10,5 @@ import Orientation from 'react-native-orientation-locker';
 Orientation.lockToPortrait();
 
 AppRegistry.registerComponent(appName, () => App);
+
+// some additions
